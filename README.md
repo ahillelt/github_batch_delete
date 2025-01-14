@@ -1,12 +1,12 @@
----
-
 # GitHub Repo Management Scripts
 
 This repository contains scripts to manage repositories within a GitHub organization. You can use these scripts to:
 - Generate a list of repositories in your GitHub organization.
 - Delete repositories based on a specified prefix.
 
-I really needed this for some of the courses I teach at NYU which has students creating repositories for assignments. 
+I really needed this functionality for some of the courses I teach at NYU which has students creating repositories for assignments each semester. 
+
+Idea credits to @tspascoal from this repo: https://github.com/tspascoal/dependabot-alerts-helper and to @joshjohanning from this repo: https://github.com/joshjohanning/github-misc-scripts/blob/main/gh-cli/
 
 ## Prerequisites
 
