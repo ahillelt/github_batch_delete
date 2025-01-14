@@ -28,8 +28,14 @@ Idea credits to @tspascoal from this repo: https://github.com/tspascoal/dependab
 
 4. **Verify Installation**:
    - Ensure that `gh` is installed correctly by running:
+     
      ```bash
      where gh  # For Windows
+     gh --version  # To check the version of GitHub CLI
+     ```
+
+     ```bash
+     which gh  # For Linux
      gh --version  # To check the version of GitHub CLI
      ```
 
