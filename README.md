@@ -155,5 +155,9 @@ This will:
    ```
 
 ---
+## Restore Window
+
+You can always quickly restore any deleted repo within a 90 day window, see here: https://docs.github.com/en/repositories/creating-and-managing-repositories/restoring-a-deleted-repository
+May develop script to automate restore if I end up facing this issue or others request. 
 
 Hope it helps folks!
