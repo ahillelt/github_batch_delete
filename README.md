@@ -47,7 +47,7 @@ Idea credits to @tspascoal from this repo: https://github.com/tspascoal/dependab
 
 There are two main scripts you can run manually:
 
-#### `pull.sh` — Generate a List of Repositories
+#### `pull-repositories.sh` — Generate a List of Repositories
 
 This script generates a list of repositories in an organization that are forks of a specified repository. The output is a list of repositories written to a CSV file.
 
@@ -86,7 +86,7 @@ The script will read the list of repositories from `repos.csv` and delete them o
 
 ### 2. **Automated Usage**
 
-If you prefer to automate the entire process (generate the list and delete the repositories), you can use the `auto-delete.sh` script, which combines `pull.sh` and `delete-repositories-from-list.sh`.
+If you prefer to automate the entire process (generate the list and delete the repositories), you can use the `auto-delete.sh` script, which combines `pull-repositories.sh` and `delete-repositories-from-list.sh`.
 
 #### `auto-delete.sh` — Automatically Generate and Delete Repositories
 
